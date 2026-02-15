@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/GergoSzuhanszky/questboard/issues"
   },
-  "homepage": "https://github.com/GergoSzuhanszky/questboard#readme"
+  "homepage": "https://github.com/GergoSzuhanszky/questboard#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "pg": "^8.18.0"
+  }
 }
