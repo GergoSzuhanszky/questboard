@@ -1,0 +1,4 @@
+// Extensions recommended for this workspace. These extensions will be automatically recommended to users who open this workspace.
+{
+  "recommendations": ["biomejs.biome"]
+}
